@@ -6,9 +6,9 @@ for (let i = 0; i < holidays.length; i++) {
 
 }
 
-let j = 0;
+let i = 0;
 // while文の場合
-while (j < holidays.length) {
-  console.log(holidays[j]);
-  j++;
+while (i < holidays.length) {
+  console.log(holidays[i]);
+  i++;
 }
